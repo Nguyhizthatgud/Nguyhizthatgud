@@ -1,22 +1,76 @@
-<h1 align="center">Hi 👋, I'm Nguy Huy</h1>
-<h3 align="center">I'm a full-stack web developer in my early career.</h3>
+<h1 align="left">Hi 👋, I'm Nguy Huy</h1>
+<h3 align="left">Entry - level Full-stack web developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyhizthatgud&label=Profile%20views&color=0e75b6&style=flat" alt="nguyhizthatgud" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nguyhizthatgud" alt="nguyhizthatgud" /></a> </p>
+> Coder School newly graduate. Open-to-work and seeking my first professional role.
+>
+> 
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nguyhizthatgud&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- 🔭 I’m currently open-to-work as a **Fullstack Web Developer**
+## Professional Experience
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/huy nguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huy nguy" height="30" width="40" /></a>
-</p>
+### Education
+**FULL-STACK-DEVELOPER BOOTCAMP | CoderSchool, Vietnam**  (04/ 2025 - present)
+Joined a 12-weeks intensive full-stack developer bootcamp that taught me the fundamentals of web, 
+frontend and backend programming. 
+- Participated in a Naver AI Hackathon 2025 as part of a five-person team that apply Naver Clova for chatbot self-dialing system.
+- Programmed a final full-stack project graduation project.
+- Worked on weekly individual and group projects to different learning blocks such as React, Zustand, Node, Express and MongoDB.
+- gains extensive knowledge in collaborative coding, git, and agile/scrum work environments.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Language**
+- English: TOEIC 800
+- Chinese: HSK 4
+  
+## Technical Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyhizthatgud&show_icons=true&locale=en&layout=compact" alt="nguyhizthatgud" /></p>
+### Areas of Expertise 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyhizthatgud&show_icons=true&locale=en" alt="nguyhizthatgud" /></p>
+| Area | Level | describe |      
+|------|--------|---------|
+| Frontend Development | Mid | Build and deploy, structured organization (MVC design pattern, Feature-based...), security frontend layer( anti XSS, CSRF), handle idle components ( debounce, lazy)|
+| Backend Development | junior | Build and deploy, handle server-side logic, database management, microservices, Faas|
+| Microservices & System Design | Beginer | 
+| Problem-solving| good |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyhizthatgud&" alt="nguyhizthatgud" /></p>
+### Core Languages
+- **HTML, CSS** - structural core of any web page.
+- **TypeScript/JavaScript** - Frontend and Web Development
+- **Node.js** - Backend Systems
+
+### Technologies & Frameworks
+
+**Frontend & UI/UX Design**
+- ReactJS, NextJS
+- Zustand, Redux
+- TailwindCSS, Shadcn, Ant Design
+- GSAP, Framer Motion
+- Figma
+  
+**Backend**
+- Express, tRPC
+- mongoose ODM
+
+
+### Key Projects
+
+**Hotel Management project**
+- Design and build a scalable,  architecture using FastAPI & Docker
+- Implemented real-time data processing and monitoring
+- Deployed on Vercel with Kubernetes orchestration
+- Handled high-throughput data streams with Redis caching
+
+**[Mora Community](https://m0ra.netlify.app/)**
+- Build a modern social media application - facebook mocking
+- Realtime chat 
+- Implemented computer vision algorithms for object detection
+- Integrated with drone control systems using ROS
+
+**Movie app - 时间如水**
+- 
+-
+-
+-
+
+
+> *Passionate about building scalable, high-performance systems. Let's create something impactful!* 
