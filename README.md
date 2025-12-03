@@ -30,7 +30,7 @@ frontend and backend programming.
 |------|--------|---------|
 | Frontend Development | Mid | Build and deploy, structured organization (MVC design pattern, Feature-based...), security frontend layer( anti XSS, CSRF), handle idle components ( debounce, lazy)|
 | Backend Development | junior | Build and deploy, handle server-side logic, database management, microservices, Faas|
-| Microservices & System Design | Beginer | 
+| Microservices & System Design | Beginer | Practical experience with microservices and monolith architecture, saga design pattern|
 | Problem-solving| good |
 
 ### Core Languages
