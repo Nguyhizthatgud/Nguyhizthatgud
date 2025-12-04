@@ -7,13 +7,13 @@
 > 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nguyhizthatgud&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Professional Experience
+## 📍Professional Experience
 
-### Education
+### 🎓 Education
 **FULL-STACK-DEVELOPER BOOTCAMP | CoderSchool, Vietnam**  (04/ 2025 - present)
 Joined a 12-weeks intensive full-stack developer bootcamp that taught me the fundamentals of web, 
 frontend and backend programming. 
-- Participated in a Naver AI Hackathon 2025 as part of a five-person team that apply Naver Clova for chatbot self-dialing system.
+- Participated in a Naver AI Hackathon 2025 as part of a five-person team that apply Naver Clova AI for chatbot self-dialing system.
 - Programmed a final full-stack project graduation project.
 - Worked on weekly individual and group projects to different learning blocks such as React, Zustand, Node, Express and MongoDB.
 - gains extensive knowledge in collaborative coding, git, and agile/scrum work environments.
@@ -22,23 +22,23 @@ frontend and backend programming.
 - English: TOEIC 800
 - Chinese: HSK 4
   
-## Technical Skills
+## 🗣️ Technical Skills
 
-### Areas of Expertise 
+###  Areas of Expertise 
 
 | Area | Level | describe |      
 |------|--------|---------|
-| Frontend Development | Mid | Build and deploy, structured organization (MVC design pattern, Feature-based...), security frontend layer( anti XSS, CSRF), handle idle components ( debounce, lazy)|
+| Frontend Development |  Mid | Build and deploy, structured organization (MVC design pattern, Feature-based...), security frontend layer( anti XSS, CSRF), handle idle components ( debounce, lazy)|
 | Backend Development | junior | Build and deploy, handle server-side logic, database management, microservices, Faas|
 | Microservices & System Design | Beginer | Practical experience with microservices and monolith architecture, saga design pattern|
 | Problem-solving| good |
 
-### Core Languages
+### 💪 Core Languages
 - **HTML, CSS** - structural core of any web page.
 - **TypeScript/JavaScript** - Frontend and Web Development
 - **Node.js** - Backend Systems
 
-### Technologies & Frameworks
+### 💪 Technologies & Frameworks
 
 **Frontend & UI/UX Design**
 - ReactJS, NextJS
@@ -52,7 +52,7 @@ frontend and backend programming.
 - mongoose ODM
 
 
-### Key Projects
+### ️🎯 Key Projects
 
 **Hotel Management project**
 - Design and build a scalable,  architecture using FastAPI & Docker
