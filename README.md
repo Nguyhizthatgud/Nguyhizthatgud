@@ -54,23 +54,41 @@ frontend and backend programming.
 
 ### ️🎯 Key Projects
 
-**Hotel Management project**
-- Design and build a scalable,  architecture using FastAPI & Docker
-- Implemented real-time data processing and monitoring
-- Deployed on Vercel with Kubernetes orchestration
-- Handled high-throughput data streams with Redis caching
+**[Hotel Management Platform] (hotel-management-psi-wine.vercel.app)** 06-12/2025
+"Hotel Management System is a production-ready, bilingual hotel booking platform featuring a Next.js frontend and a Node.js/MongoDB microservices architecture. It streamlines the full booking lifecycle—from user search to staff inventory management—using Firebase for auth and Docker for cloud-ready deployment".
 
-**[Mora Community](https://m0ra.netlify.app/)**
-- Build a modern social media application - facebook mocking
-- Realtime chat 
-- Implemented computer vision algorithms for object detection
-- Integrated with drone control systems using ROS
+   + Tech Stack: TypeScript/Next.js, Node.js/Express, MongoDB, Firebase.
 
-**Movie app - 时间如水**
-- 
--
--
--
+   + Architecture: Containerized microservices (Booking, Room, Auth, etc).
 
+   + Core Features: Real-time availability, bilingual UI (EN/VI), and admin management.
+
+   + Security: Secure service-to-service communication and cloud credential handling.
+
+   + DevOps & Deployment: CI/CD pipeline, Vercel cloud & VPS hosting.
+
+**[Mora Community](https://m0ra.netlify.app/)**   --11-12/2025
+"MORA is a production-ready social media platform I built as a full-stack developer. It features secure authentication, real-time interactions, and is deployed on Netlify and Render. The project showcases my expertise in React, Node.js, MongoDB, and DevOps."
+
+   + Tech Stack:  Vite, Figma,  Zustand, Node.js/Express 5, MongoDB/Mongoose, Web-Socket.
+
+   + Core Feature: Social-media, real-time chat app with secure JWT auth, profiles, posts/comments and follows.
+
+   + Architecture: Modular, maintainable, scalable code end-to-end application from database to UI.
+
+   + Security: JWT, bcryptjs, CORS, protected routes.
+
+   + DevOps & Deployment: CI/CD pipeline, cloud hosting.
+
+**[Movie app - 时间如水] (https://nguyhizthatgud.github.io/MovieApp_-/)**   --08-09/2025--
+"时间如水 is a sophisticated movie discovery platform that demonstrates cutting-edge web development practices, combining traditional API integration with Large Language Model (LLM) capabilities to deliver a zero-failure search experience."
+
+   + Tech Stack: React 18, Vite 7, Tailwind 4, Gemini 2.5, Figma.
+
+   + Core Feature: AI-Powered Hybrid search - TMDB + Gemini fallback for 100% success rate in 300ms debouncing.
+
+   + Architecture: Feature-Based MVC Architecture - Production-ready, scalable structure.
+
+   + Security: CSP, front-end environment protection, input validation.
 
 > *Passionate about building scalable, high-performance systems. Let's create something impactful!* 
