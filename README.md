@@ -54,7 +54,7 @@ frontend and backend programming.
 
 ### ️🎯 Key Projects
 
-**[Hotel Management Platform] (hotel-management-psi-wine.vercel.app)** 06-12/2025
+**[Hotel PMS - Apache](https://apachepms.io.vn/)** 06-12/2025
 "Hotel Management System is a production-ready, bilingual hotel booking platform featuring a Next.js frontend and a Node.js/MongoDB microservices architecture. It streamlines the full booking lifecycle—from user search to staff inventory management—using Firebase for auth and Docker for cloud-ready deployment".
 
    + Tech Stack: TypeScript/Next.js, Node.js/Express, MongoDB, Firebase.
