@@ -31,7 +31,7 @@ frontend and backend programming.
 | Frontend Development |  Mid | structured organization (MVC design pattern, Feature-based...), state management, api integration, security frontend layer( anti XSS, CSRF), handle idle components ( debounce, lazy)|
 | Backend & deployment | junior |  structured organization (monolith, microservice), middleware chain (CORS, helmet, rate limit, error handler), reverse proxy, encrypt/certbot,  database management|
 | Microservices & System Design | Beginer | Practical experience with microservices and monolith architecture, saga design pattern|
-| Problem-solving| good |
+| Problem-solving| good | When i can't solve a problem, i'll find a way
 
 ### 💪 Core Languages
 - **HTML, CSS** - structural core of any web page
@@ -51,8 +51,6 @@ frontend and backend programming.
 - Express, tRPC
 - mongoose ODM
 - Redis, PM2, Nginx, Docker
-
-
 
 ### ️🎯 Key Projects
 
@@ -92,5 +90,3 @@ frontend and backend programming.
    + Architecture: Feature-Based MVC Architecture - Production-ready, scalable structure.
 
    + Security: CSP, front-end environment protection, input validation.
-
-> *Passionate about building scalable, high-performance systems. Let's create something impactful!* 
