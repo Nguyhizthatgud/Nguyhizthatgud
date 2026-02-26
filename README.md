@@ -28,43 +28,13 @@ frontend and backend programming.
 
 | Area | Level | describe |      
 |------|--------|---------|
-| Frontend Development |  Mid | Build and deploy, structured organization (MVC design pattern, Feature-based...), API interlign="left">Hi 👋, I'm Nguy Huy</h1>
-<h3 align="left">Entry - level Full-stack web developer
-
-
-> Coder School newly graduate. Open-to-work and seeking my first professional role.
->
-> 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nguyhizthatgud&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 📍Professional Experience
-
-### 🎓 Education
-**FULL-STACK-DEVELOPER BOOTCAMP | CoderSchool, Vietnam**  (04/ 2025 - present)
-Joined a 12-weeks intensive full-stack developer bootcamp that taught me the fundamentals of web, 
-frontend and backend programming. 
-- Participated in a Naver AI Hackathon 2025 as part of a five-person team that apply Naver Clova AI for chatbot self-dialing system.
-- Programmed a final full-stack project graduation project.
-- Worked on weekly individual and group projects to different learning blocks such as React, Zustand, Node, Express and MongoDB.
-- gains extensive knowledge in collaborative coding, git, and agile/scrum work environments.
-
-**Language**
-- English: TOEIC 800
-- Chinese: HSK 4
-  
-## 🗣️ Technical Skills
-
-###  Areas of Expertise 
-
-| Area | Level | describe |      
-|------|--------|---------|
-| Frontend Development |  Mid | Build and deploy, structured organization (MVC design pattern, Feature-based...), Api integration, security frontend layer( anti XSS, CSRF), handle idle components ( debounce, lazy)|
-| Backend Development | junior | Build and deploy, handle server-side logic, database management, microservices, Faas|
+| Frontend Development |  Mid | structured organization (MVC design pattern, Feature-based...), state management, api integration, security frontend layer( anti XSS, CSRF), handle idle components ( debounce, lazy)|
+| Backend & deployment | junior |  structured organization (monolith, microservice), middleware chain (CORS, helmet, rate limit, error handler), reverse proxy, encrypt/certbot,  database management|
 | Microservices & System Design | Beginer | Practical experience with microservices and monolith architecture, saga design pattern|
 | Problem-solving| good |
 
 ### 💪 Core Languages
-- **HTML, CSS** - structural core of any web page.
+- **HTML, CSS** - structural core of any web page
 - **TypeScript/JavaScript** - Frontend and Web Development
 - **Node.js** - Backend Systems
 
@@ -77,9 +47,11 @@ frontend and backend programming.
 - GSAP, Framer Motion
 - Figma
   
-**Backend**
+**Backend & deployment**
 - Express, tRPC
 - mongoose ODM
+- Redis, PM2, Nginx, Docker
+
 
 
 ### ️🎯 Key Projects
@@ -110,7 +82,7 @@ frontend and backend programming.
 
    + DevOps & Deployment: CI/CD pipeline, cloud hosting.
 
-**[Movie app - 时间如水] (https://nguyhizthatgud.github.io/MovieApp_-/)**   --08-09/2025--
+**[Movie app - 时间如水](https://nguyhizthatgud.github.io/MovieApp_-/)**   --08-09/2025--
 "时间如水 is a sophisticated movie discovery platform that demonstrates cutting-edge web development practices, combining traditional API integration with Large Language Model (LLM) capabilities to deliver a zero-failure search experience."
 
    + Tech Stack: React 18, Vite 7, Tailwind 4, Gemini 2.5, Figma.
