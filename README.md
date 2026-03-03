@@ -31,7 +31,7 @@ frontend and backend programming.
 | Frontend Development |  Mid | structured organization (MVC design pattern, Feature-based...), state management, api integration, security frontend layer( anti XSS, CSRF), handle idle components ( debounce, lazy)|
 | Backend & deployment | junior |  structured organization (monolith, microservice), middleware chain (CORS, helmet, rate limit, error handler), reverse proxy, encrypt/certbot,  database management|
 | Microservices & System Design | Beginer | Practical experience with microservices and monolith architecture, saga design pattern|
-| Problem-solving| good | When i can't solve a problem, i'll find a way
+| Problem-solving| good | 
 
 ### 💪 Core Languages
 - **HTML, CSS** - structural core of any web page
@@ -42,10 +42,10 @@ frontend and backend programming.
 
 **Frontend & UI/UX Design**
 - ReactJS, NextJS
-- Zustand, Redux
+- Zustand, Redux, TanStack Query
 - TailwindCSS, Shadcn, Ant Design
 - GSAP, Framer Motion
-- Figma
+- Figma 
   
 **Backend & deployment**
 - Express, tRPC
@@ -57,7 +57,7 @@ frontend and backend programming.
 **[Hotel PMS - Apache](https://apachepms.io.vn/)** 06-12/2025
 "Hotel Management System is a production-ready, bilingual hotel booking platform featuring a Next.js frontend and a Node.js/MongoDB microservices architecture. It streamlines the full booking lifecycle—from user search to staff inventory management—using Firebase for auth and Docker for cloud-ready deployment".
 
-   + Tech Stack: TypeScript/Next.js, Node.js/Express, MongoDB, Firebase.
+   + Tech Stack: TypeScript/Next.js, Zustand (UI robust) / TanStack Query(server-data), Node.js/Express, MongoDB, Firebase.
 
    + Architecture: Containerized microservices (Booking, Room, Auth, etc).
 
@@ -70,7 +70,7 @@ frontend and backend programming.
 **[Mora Community](https://m0ra.netlify.app/)**   --11-12/2025
 "MORA is a production-ready social media platform I built as a full-stack developer. It features secure authentication, real-time interactions, and is deployed on Netlify and Render. The project showcases my expertise in React, Node.js, MongoDB, and DevOps."
 
-   + Tech Stack:  Vite, Figma,  Zustand, Node.js/Express 5, MongoDB/Mongoose, Web-Socket.
+   + Tech Stack:  Vite, Figma, Zustand, Node.js/Express 5, MongoDB/Mongoose, Web-Socket.
 
    + Core Feature: Social-media, real-time chat app with secure JWT auth, profiles, posts/comments and follows.
 
