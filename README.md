@@ -29,7 +29,7 @@ frontend and backend programming.
 | Area | Level | describe |      
 |------|--------|---------|
 | Frontend Development |  Mid | structured organization (MVC design pattern, Feature-based...), state management, api integration, security frontend layer( anti XSS, CSRF), handle idle components ( debounce, lazy)|
-| Backend & deployment | junior |  structured organization (monolith, microservice), middleware chain (CORS, helmet, rate limit, error handler), reverse proxy, encrypt/certbot,  database management|
+| Backend & deployment | Mid |  structured organization (monolith, microservice), middleware chain (CORS, helmet, rate limit, error handler), reverse proxy, encrypt/certbot,  database management|
 | Microservices & System Design | Beginner | Practical experience with microservices and monolith architecture, saga design patterns |
 | AI-driven | Beginner |  Experienced in architecting Multi-Agent systems, orchestrating specialized AI models, 
 | Problem-solving| good | 
