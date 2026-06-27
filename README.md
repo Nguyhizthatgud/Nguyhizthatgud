@@ -30,8 +30,8 @@ frontend and backend programming.
 |------|--------|---------|
 | Frontend Development |  Mid | structured organization (MVC design pattern, Feature-based...), state management, api integration, security frontend layer( anti XSS, CSRF), handle idle components ( debounce, lazy)|
 | Backend & deployment | junior |  structured organization (monolith, microservice), middleware chain (CORS, helmet, rate limit, error handler), reverse proxy, encrypt/certbot,  database management|
-| Microservices & System Design | Beginer | Practical experience with microservices and monolith architecture, saga design patterna|
-| AI-driven | Beginer |  Experienced in architecting Multi-Agent systems, orchestrating specialized AI models 
+| Microservices & System Design | Beginner | Practical experience with microservices and monolith architecture, saga design patterns |
+| AI-driven | Beginner |  Experienced in architecting Multi-Agent systems, orchestrating specialized AI models, 
 | Problem-solving| good | 
 
 ### 💪 Core Languages
@@ -47,11 +47,16 @@ frontend and backend programming.
 - TailwindCSS, Shadcn, Ant Design
 - GSAP, Framer Motion
 - Figma MCP
-  
+
 **Backend & deployment**
 - ExpressJS, NestJS, tRPC
 - mongoose ODM 
 - PNPM, Redis, PM2, Nginx, Docker
+
+**AI integrated & orchestration**
+- Multi-Agent Systems
+- LangChain/LangGraph
+- Prompt Engineering
 
 ### ️🎯 Key Projects
 
