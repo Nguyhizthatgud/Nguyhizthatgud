@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Nguy Huy</h1>
+ <h1 align="left">Hi 👋, I'm Nguy Huy</h1>
 <h3 align="left">Entry - level Full-stack web developer
 
 
@@ -30,7 +30,8 @@ frontend and backend programming.
 |------|--------|---------|
 | Frontend Development |  Mid | structured organization (MVC design pattern, Feature-based...), state management, api integration, security frontend layer( anti XSS, CSRF), handle idle components ( debounce, lazy)|
 | Backend & deployment | junior |  structured organization (monolith, microservice), middleware chain (CORS, helmet, rate limit, error handler), reverse proxy, encrypt/certbot,  database management|
-| Microservices & System Design | Beginer | Practical experience with microservices and monolith architecture, saga design pattern|
+| Microservices & System Design | Beginer | Practical experience with microservices and monolith architecture, saga design patterna|
+| AI-driven | Beginer |  Experienced in architecting Multi-Agent systems, orchestrating specialized AI models 
 | Problem-solving| good | 
 
 ### 💪 Core Languages
@@ -45,12 +46,12 @@ frontend and backend programming.
 - Zustand, Redux, TanStack Query
 - TailwindCSS, Shadcn, Ant Design
 - GSAP, Framer Motion
-- Figma 
+- Figma MCP
   
 **Backend & deployment**
-- Express, tRPC
-- mongoose ODM
-- Redis, PM2, Nginx, Docker
+- ExpressJS, NestJS, tRPC
+- mongoose ODM 
+- PNPM, Redis, PM2, Nginx, Docker
 
 ### ️🎯 Key Projects
 
