@@ -5,7 +5,6 @@
 > Coder School newly graduate. Open-to-work and seeking my first professional role.
 >
 > 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nguyhizthatgud&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📍Professional Experience
 
